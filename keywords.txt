@@ -1,0 +1,8 @@
+Matricial	KEYWORD1
+
+Mostrar	KEYWORD2
+tecla	KEYWORD2
+veryClave	KEYWORD2
+camb_Clave	KEYWORD2
+Reset	KEYWORD2
+Teclado	KEYWORD2
